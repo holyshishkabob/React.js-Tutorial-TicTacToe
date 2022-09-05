@@ -2,13 +2,13 @@
 
 Access the app at: https://react-app-tut-hsk.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 Background image by Nicolas J Leclercq, 
 https://unsplash.com/@nicolasjleclercq
 https://www.instagram.com/nicolasjleclercq/?hl=en
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
 
 In the project directory, you can run:
 
